@@ -1,0 +1,12 @@
+.login-form {
+    border: 1px solid #000;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.login-heading {
+    border: 1px solid #000;
+    padding: 5px;
+}
